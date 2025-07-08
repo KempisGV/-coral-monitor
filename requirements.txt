@@ -5,3 +5,4 @@ pillow
 opencv-python
 plotly
 pandas
+gdown
