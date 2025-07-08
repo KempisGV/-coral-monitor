@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+venv/
+.env
+
+# Ignorar archivos de modelo grandes
+*.h5
+
+# Otros posibles archivos pesados o innecesarios
+__pycache__/
+.DS_Store
+*.pyc
