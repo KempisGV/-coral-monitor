@@ -1,2 +1,5 @@
+[stack]
+  id = "python"
+
 [phases.setup]
-nixPkgs = ["libGL"]
+  nixPkgs = ["libGL"]
